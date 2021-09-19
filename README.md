@@ -1,9 +1,7 @@
-<h1 align="center">Hi world, I'm Eliana!</h1>
+<h1 align="center">Hi! I'm Eliana!</h1>
 <h3 align="center">Frontend developer trainee.</h3>
 
 - 🌱 I’m currently learning **JavaScript**
-
-- 👨‍💻 All of my projects are available at [https://github.com/TolosaElianaM](https://github.com/TolosaElianaM)
 
 - 📫 How to reach me **tolosa.eliana.m@gmail.com**
 
